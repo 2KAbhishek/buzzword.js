@@ -1,0 +1,36 @@
+{
+  "name": "@2kabhishek/buzzword",
+  "version": "1.0.0",
+  "description": "Know your buzzwords.",
+  "main": "buzzword.js",
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -cw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2kabhishek/buzzword.js.git"
+  },
+  "keywords": [
+    "buzzword"
+  ],
+  "author": "Abhishek Keshri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2kabhishek/buzzword.js/issues"
+  },
+  "homepage": "https://github.com/2kabhishek/buzzword.js#readme",
+  "files": [
+    "buzzword.js"
+  ],
+  "devDependencies": {
+    "findandreplacedomtext": "^0.4.6",
+    "rollup": "^1.23.1",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-terser": "^5.1.2"
+  },
+  "dependencies": {
+    "rollup-plugin-buble": "^0.19.8"
+  }
+}
