@@ -1,5 +1,3 @@
-<div align="center">
-
 # buzzword.js
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/buzzword.js?style=plastic&color=0f0&label=Size)
@@ -14,11 +12,9 @@ buzzword.js is a best-of-breed, mission-critical enterprise JavaScript bookmarkl
 
 [Try](https://2kabhishek.github.io/buzzword.js/)
 
-</div>
 
 ## Usage Instructions
 
 Drag the link onto your bookmarks bar and click on it to highlight buzzwords.
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
