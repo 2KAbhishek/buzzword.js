@@ -12,9 +12,6 @@ buzzword.js is a best-of-breed, mission-critical enterprise JavaScript bookmarkl
 
 [Try](https://2kabhishek.github.io/buzzword.js/)
 
-
 ## Usage Instructions
 
 Drag the link onto your bookmarks bar and click on it to highlight buzzwords.
-
-
