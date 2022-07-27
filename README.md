@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/buzzword.js">BareMinimum</a></h1>
+<h1><a href="https://2kabhishek.github.io/buzzword.js">buzzword.js</a></h1>
 
 <a href="https://github.com/2KAbhishek/buzzword.js/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/buzzword.js?style=flat&color=eee&label="> </a>
